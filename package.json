@@ -1,0 +1,27 @@
+{
+  "name": "as-theme",
+  "displayName": "AS Theme",
+  "publisher": "ArpitTheme",
+  "description": "AS Theme is a sleek, modern Visual Studio Code theme designed for clarity, focus, and long coding hours — with a subtle, dark Stranger Things-inspired atmosphere that sparks creativity and mystery.",
+  "version": "1.0.0",
+  "icon": "images/logo.jpg",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arpitshukla9/as-theme.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "AS Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/AS-theme-color-theme.json"
+      }
+    ]
+  }
+}
