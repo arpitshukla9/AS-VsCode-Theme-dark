@@ -43,7 +43,7 @@ Once installed, activate the theme via:
 
 ## Feedback & Contribution
 
-Your feedback is valuable! If you find any issues or have suggestions, please open an issue on the [GitHub repository](https://github.com/arpitshukla9/as-theme).
+Your feedback is valuable! If you find any issues or have suggestions, please open an issue on the [GitHub repository](https://github.com/arpitshukla9/AS-VsCode-Theme-dark).
 
 Contributions are welcome! Feel free to fork the repo and create pull requests.
 
